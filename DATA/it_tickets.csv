@@ -1,0 +1,16 @@
+ticket_id,title,status,priority,assigned_to,created_on
+1,Email server down,Open,High,Alice,2025-12-01
+2,Printer not working,Resolved,Medium,Bob,2025-12-02
+3,Network outage,Open,Critical,Charlie,2025-12-03
+4,VPN not connecting,Open,High,Alice,2025-12-04
+5,Software update failed,Resolved,Medium,Bob,2025-12-05
+6,Laptop slow,Open,Low,Charlie,2025-12-06
+7,Access denied to shared folder,Resolved,High,Alice,2025-12-07
+8,Server backup failed,Open,Critical,Bob,2025-12-08
+9,Email spam issues,Open,Medium,Charlie,2025-12-09
+10,Printer jammed,Resolved,Low,Alice,2025-12-10
+11,WiFi intermittent,Open,High,Bob,2025-12-11
+12,Database connection error,Open,Critical,Charlie,2025-12-12
+13,Email attachment blocked,Resolved,Medium,Alice,2025-12-13
+14,VPN timeout,Open,High,Bob,2025-12-14
+15,Software crash,Open,Medium,Charlie,2025-12-15

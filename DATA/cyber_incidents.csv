@@ -1,0 +1,17 @@
+date,incident_type,severity,status,description,reported_by
+2025-12-01,Phishing,High,Open,Phishing email detected,Alice
+2025-12-01,Malware,Critical,Open,Ransomware detected,Bob
+2025-12-02,Data Breach,High,Resolved,Unauthorized access detected,Charlie
+2025-12-03,DDoS,Medium,Open,Website under attack,Alice
+2025-12-04,Phishing,High,Open,New phishing campaign,Bob
+2025-12-05,Malware,Critical,Resolved,Detected malware,Charlie
+2025-12-06,Insider Threat,Medium,Open,Suspicious activity,Alice
+2025-12-07,Data Breach,High,Resolved,Confidential data leak,Bob
+2025-12-08,DDoS,Critical,Open,Service outage,Charlie
+2025-12-09,Phishing,Medium,Open,Fake login page detected,Alice
+2025-12-10,Malware,High,Resolved,Malware on server,Bob
+2025-12-11,Insider Threat,Medium,Open,Internal data access,Alice
+2025-12-12,Data Breach,Critical,Open,Unauthorized database access,Charlie
+2025-12-13,DDoS,High,Resolved,Network attack mitigated,Bob
+2025-12-14,Phishing,Medium,Open,New phishing email,Alice
+2025-12-15,Malware,Critical,Open,Ransomware alert,Charlie

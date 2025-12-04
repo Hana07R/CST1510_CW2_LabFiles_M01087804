@@ -1,0 +1,16 @@
+threat_name,severity,detected_on
+Phishing Email Campaign,High,2025-12-01
+Ransomware Attack,Critical,2025-12-02
+Zero-Day Exploit,Critical,2025-12-03
+Insider Data Leak,Medium,2025-12-04
+Data Breach Attempt,High,2025-12-05
+Malware Infection,Critical,2025-12-06
+DDoS Attack,High,2025-12-07
+Phishing Attempt,Medium,2025-12-08
+Ransomware Campaign,Critical,2025-12-09
+Software Vulnerability,High,2025-12-10
+Threat Intelligence Alert,Medium,2025-12-11
+Suspicious Login Activity,High,2025-12-12
+Network Intrusion,High,2025-12-13
+DDoS Risk,Critical,2025-12-14
+Malware Alert,High,2025-12-15
