@@ -1,17 +1,62 @@
-date,incident_type,severity,status,description,reported_by
-2025-12-01,Phishing,High,Open,Phishing email detected,Alice
-2025-12-01,Malware,Critical,Open,Ransomware detected,Bob
-2025-12-02,Data Breach,High,Resolved,Unauthorized access detected,Charlie
-2025-12-03,DDoS,Medium,Open,Website under attack,Alice
-2025-12-04,Phishing,High,Open,New phishing campaign,Bob
-2025-12-05,Malware,Critical,Resolved,Detected malware,Charlie
-2025-12-06,Insider Threat,Medium,Open,Suspicious activity,Alice
-2025-12-07,Data Breach,High,Resolved,Confidential data leak,Bob
-2025-12-08,DDoS,Critical,Open,Service outage,Charlie
-2025-12-09,Phishing,Medium,Open,Fake login page detected,Alice
-2025-12-10,Malware,High,Resolved,Malware on server,Bob
-2025-12-11,Insider Threat,Medium,Open,Internal data access,Alice
-2025-12-12,Data Breach,Critical,Open,Unauthorized database access,Charlie
-2025-12-13,DDoS,High,Resolved,Network attack mitigated,Bob
-2025-12-14,Phishing,Medium,Open,New phishing email,Alice
-2025-12-15,Malware,Critical,Open,Ransomware alert,Charlie
+incident_id,timestamp,severity,category,status,description
+1,2025-09-01,High,Malware,Open,Sample incident 1 description
+2,2025-09-01,Medium,Phishing,In Progress,Sample incident 2 description
+3,2025-09-01,Critical,Ransomware,Resolved,Sample incident 3 description
+4,2025-09-02,Low,DDoS,Closed,Sample incident 4 description
+5,2025-09-02,High,Unauthorized Access,Open,Sample incident 5 description
+6,2025-09-02,Medium,Data Breach,In Progress,Sample incident 6 description
+7,2025-09-03,Medium,Malware,Resolved,Sample incident 7 description
+8,2025-09-03,Critical,Phishing,Closed,Sample incident 8 description
+9,2025-09-03,High,Ransomware,Open,Sample incident 9 description
+10,2025-09-03,Low,DDoS,In Progress,Sample incident 10 description
+11,2025-09-04,High,Unauthorized Access,Resolved,Sample incident 11 description
+12,2025-09-04,Medium,Data Breach,Open,Sample incident 12 description
+13,2025-09-05,Low,Malware,Closed,Sample incident 13 description
+14,2025-09-05,High,Phishing,In Progress,Sample incident 14 description
+15,2025-09-05,Critical,Ransomware,Open,Sample incident 15 description
+16,2025-09-06,Medium,DDoS,Resolved,Sample incident 16 description
+17,2025-09-06,High,Unauthorized Access,Closed,Sample incident 17 description
+18,2025-09-06,Medium,Data Breach,Open,Sample incident 18 description
+19,2025-09-07,Critical,Malware,In Progress,Sample incident 19 description
+20,2025-09-07,Low,Phishing,Open,Sample incident 20 description
+21,2025-09-07,High,Ransomware,Resolved,Sample incident 21 description
+22,2025-09-08,Medium,DDoS,Closed,Sample incident 22 description
+23,2025-09-08,High,Unauthorized Access,Open,Sample incident 23 description
+24,2025-09-08,Medium,Data Breach,In Progress,Sample incident 24 description
+25,2025-09-09,Low,Malware,Resolved,Sample incident 25 description
+26,2025-09-09,Critical,Phishing,Closed,Sample incident 26 description
+27,2025-09-09,High,Ransomware,Open,Sample incident 27 description
+28,2025-09-09,Medium,DDoS,In Progress,Sample incident 28 description
+29,2025-09-10,High,Unauthorized Access,Resolved,Sample incident 29 description
+30,2025-09-10,Medium,Data Breach,Open,Sample incident 30 description
+31,2025-09-10,Low,Malware,Closed,Sample incident 31 description
+32,2025-09-11,Medium,Phishing,Open,Sample incident 32 description
+33,2025-09-11,High,Ransomware,In Progress,Sample incident 33 description
+34,2025-09-11,Critical,DDoS,Resolved,Sample incident 34 description
+35,2025-09-12,Medium,Unauthorized Access,Open,Sample incident 35 description
+36,2025-09-12,High,Data Breach,Closed,Sample incident 36 description
+37,2025-09-12,Low,Malware,Resolved,Sample incident 37 description
+38,2025-09-13,Medium,Phishing,In Progress,Sample incident 38 description
+39,2025-09-13,High,Ransomware,Open,Sample incident 39 description
+40,2025-09-13,Critical,DDoS,Closed,Sample incident 40 description
+41,2025-09-14,Medium,Unauthorized Access,Resolved,Sample incident 41 description
+42,2025-09-14,High,Data Breach,Open,Sample incident 42 description
+43,2025-09-14,Low,Malware,In Progress,Sample incident 43 description
+44,2025-09-15,Medium,Phishing,Open,Sample incident 44 description
+45,2025-09-15,High,Ransomware,Resolved,Sample incident 45 description
+46,2025-09-15,Critical,DDoS,Closed,Sample incident 46 description
+47,2025-09-16,Low,Unauthorized Access,Open,Sample incident 47 description
+48,2025-09-16,High,Data Breach,In Progress,Sample incident 48 description
+49,2025-09-16,Medium,Malware,Resolved,Sample incident 49 description
+50,2025-09-17,Medium,Phishing,Open,Sample incident 50 description
+51,2025-09-17,High,Ransomware,Closed,Sample incident 51 description
+52,2025-09-17,Critical,DDoS,In Progress,Sample incident 52 description
+53,2025-09-18,Medium,Unauthorized Access,Open,Sample incident 53 description
+54,2025-09-18,High,Data Breach,Resolved,Sample incident 54 description
+55,2025-09-18,Low,Malware,Closed,Sample incident 55 description
+56,2025-09-19,Medium,Phishing,In Progress,Sample incident 56 description
+57,2025-09-19,High,Ransomware,Open,Sample incident 57 description
+58,2025-09-19,Critical,DDoS,Closed,Sample incident 58 description
+59,2025-09-20,Low,Unauthorized Access,Resolved,Sample incident 59 description
+60,2025-09-20,Medium,Data Breach,Open,Sample incident 60 description
+...

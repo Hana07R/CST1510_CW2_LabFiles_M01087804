@@ -1,0 +1,92 @@
+date,incident_type,severity,status,description,reported_by
+2025-12-01,Phishing,High,Open,Phishing email detected,alice
+2025-12-01,Malware,Critical,Open,Ransomware detected,Bob
+2025-12-02,Data Breach,High,Resolved,Unauthorized access detected,Charlie
+2025-12-03,DDoS,Medium,Open,Website under attack,alice
+2025-12-04,Phishing,High,Open,New phishing campaign,Bob
+2025-12-05,Malware,Critical,Resolved,Detected malware,Charlie
+2025-12-06,Insider Threat,Medium,Open,Suspicious activity,alice
+2025-12-07,Data Breach,High,Resolved,Confidential data leak,Bob
+2025-12-08,DDoS,Critical,Open,Service outage,Charlie
+2025-12-09,Phishing,Medium,Open,Fake login page detected,alice
+2025-12-10,Malware,High,Resolved,Malware on server,Bob
+2025-12-11,Insider Threat,Medium,Open,Internal data access,alice
+2025-12-12,Data Breach,Critical,Open,Unauthorized database access,Charlie
+2025-12-13,DDoS,High,Resolved,Network attack mitigated,Bob
+2025-12-14,Phishing,Medium,Open,New phishing email,alice
+2025-12-15,Malware,Critical,Open,Ransomware alert,Charlie
+2025-12-16,Phishing,High,Resolved,Suspicious link reported,David
+2025-12-17,Malware,Medium,Open,Trojan found in attachment,Eva
+2025-12-18,DDoS,High,Open,Traffic spike detected,Frank
+2025-12-19,Data Breach,Critical,Open,Compromised credentials,Gina
+2025-12-20,Insider Threat,Medium,Resolved,Unauthorized file transfer,Henry
+2025-12-21,Phishing,High,Open,Spear phishing attempt,Isha
+2025-12-22,Malware,Critical,Open,Rootkit activity detected,John
+2025-12-23,DDoS,Medium,Resolved,Attack blocked,Karen
+2025-12-24,Data Breach,High,Open,Exposed confidential records,Liam
+2025-12-25,Phishing,Medium,Open,Fraudulent email reported,Mia
+2025-12-26,Malware,High,Resolved,Virus quarantined,Noah
+2025-12-27,Insider Threat,Critical,Open,Privilege misuse detected,Olivia
+2025-12-28,Data Breach,Medium,Open,Unauthorized data copy,Peter
+2025-12-29,DDoS,High,Open,Network flooding detected,Quinn
+2025-12-30,Phishing,High,Resolved,Credential theft attempt,Rachel
+2025-12-31,Malware,Critical,Open,Ransomware spreading,Sarah
+2026-01-01,Data Breach,High,Open,Database vulnerability exploited,Tom
+2026-01-02,DDoS,Medium,Resolved,Service latency monitored,Uma
+2026-01-03,Phishing,Low,Open,Spam email reported,Victor
+2026-01-04,Malware,Critical,Open,Unknown malware detected,Wendy
+2026-01-05,Insider Threat,Medium,Resolved,Unusual access pattern,Xavier
+2026-01-06,Data Breach,Critical,Open,Unauthorized export attempt,Yara
+2026-01-07,DDoS,High,Open,Unusual bot traffic,Zaid
+2026-01-08,Phishing,Medium,Resolved,Fake invoice email,Alice
+2026-01-09,Malware,High,Open,Malicious script detected,Bob
+2026-01-10,Insider Threat,Low,Resolved,Policy violation reported,Charlie
+2026-01-11,Data Breach,High,Open,Employee laptop stolen,David
+2026-01-12,DDoS,Critical,Open,Large-scale attack ongoing,Eva
+2026-01-13,Phishing,Medium,Open,Deceptive login attempt,Frank
+2026-01-14,Malware,High,Resolved,Backdoor removed,Gina
+2026-01-15,Data Breach,Critical,Open,Leaked financial files,Henry
+2026-01-16,DDoS,Medium,Open,Slow service response,Isha
+2026-01-17,Insider Threat,High,Resolved,Suspicious admin behavior,John
+2026-01-18,Phishing,Medium,Open,Malicious QR code,Karen
+2026-01-19,Malware,Critical,Open,Encrypted workstation detected,Liam
+2026-01-20,Data Breach,High,Resolved,Unusual DB access,Mia
+2026-01-21,DDoS,High,Open,Multiple IP attacks,Noah
+2026-01-22,Phishing,Low,Resolved,Spam campaign detected,Olivia
+2026-01-23,Malware,Medium,Open,Macro virus discovered,Peter
+2026-01-24,Insider Threat,High,Open,Confidential file access,Quinn
+2026-01-25,Data Breach,Critical,Open,Key system compromised,Rachel
+2026-01-26,DDoS,Medium,Resolved,Attack traffic reduced,Sarah
+2026-01-27,Phishing,High,Open,Business email compromise attempt,Tom
+2026-01-28,Malware,Critical,Open,Worm spreading detected,Uma
+2026-01-29,Data Breach,High,Resolved,Exposure of encrypted data,Victor
+2026-01-30,Insider Threat,Medium,Open,Unauthorized login attempt,Wendy
+2026-01-31,DDoS,High,Open,Edge server attack,Xavier
+2026-02-01,Phishing,Medium,Resolved,Scam message blocked,Yara
+2026-02-02,Malware,High,Open,Trojan downloader activity,Zaid
+2026-02-03,Data Breach,Critical,Open,Massive credential leak,Alice
+2026-02-04,DDoS,Medium,Resolved,IP throttling applied,Bob
+2026-02-05,Phishing,High,Open,Corporate impersonation attempt,Charlie
+2026-02-06,Insider Threat,Medium,Open,Data exfiltration attempt,David
+2026-02-07,Malware,Critical,Open,System takeover suspected,Eva
+2026-02-08,Data Breach,High,Resolved,Unauthorized system access,Frank
+2026-02-09,DDoS,High,Open,Ongoing botnet attack,Gina
+2026-02-10,Phishing,Medium,Resolved,Fake password reset email,Henry
+2026-02-11,Malware,High,Open,Spyware activity detected,Isha
+2026-02-12,Insider Threat,Low,Resolved,Suspicious USB usage,John
+2026-02-13,Data Breach,Critical,Open,Internal network breach,Karen
+2026-02-14,DDoS,Medium,Open,Multiple attack vectors,Liam
+2026-02-15,Phishing,High,Resolved,CEO fraud attempt,Mia
+2026-02-16,Malware,Critical,Open,Zero-day attack detected,Noah
+2026-02-17,Insider Threat,Medium,Open,Unusual login times observed,Olivia
+2026-02-18,Data Breach,High,Resolved,Sensitive info exposed,Peter
+2026-02-19,DDoS,High,Open,Datacenter flooding traffic,Quinn
+2026-02-20,Phishing,Medium,Open,Fake onboarding email,Rachel
+2026-02-21,Malware,High,Resolved,Malicious tool removed,Sarah
+2026-02-22,Data Breach,Critical,Open,Backup server breach,Tom
+2026-02-23,Insider Threat,Medium,Open,Misuse of shared credentials,Uma
+2026-02-24,DDoS,High,Open,Traffic spike across regions,Victor
+2026-02-25,Phishing,High,Resolved,Unauthorized access attempt,Wendy
+2026-02-26,Malware,Critical,Open,Rootkit script detected,Xavier
+2026-02-27,Data Breach,High,Open,Unauthorized API access,Yara
+2026-02-28,DDoS,Medium,Resolved,Attack blocked successfully,Zaid

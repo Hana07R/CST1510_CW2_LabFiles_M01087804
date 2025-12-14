@@ -1,16 +1,101 @@
-ticket_id,title,status,priority,assigned_to,created_on
-1,Email server down,Open,High,Alice,2025-12-01
-2,Printer not working,Resolved,Medium,Bob,2025-12-02
-3,Network outage,Open,Critical,Charlie,2025-12-03
-4,VPN not connecting,Open,High,Alice,2025-12-04
-5,Software update failed,Resolved,Medium,Bob,2025-12-05
-6,Laptop slow,Open,Low,Charlie,2025-12-06
-7,Access denied to shared folder,Resolved,High,Alice,2025-12-07
-8,Server backup failed,Open,Critical,Bob,2025-12-08
-9,Email spam issues,Open,Medium,Charlie,2025-12-09
-10,Printer jammed,Resolved,Low,Alice,2025-12-10
-11,WiFi intermittent,Open,High,Bob,2025-12-11
-12,Database connection error,Open,Critical,Charlie,2025-12-12
-13,Email attachment blocked,Resolved,Medium,Alice,2025-12-13
-14,VPN timeout,Open,High,Bob,2025-12-14
-15,Software crash,Open,Medium,Charlie,2025-12-15
+ticket_id,priority,description,status,assigned_to,created_at
+2000,High,Ticket 0 problem description,Resolved,IT_Support_A,27/01/2024
+2001,Medium,Ticket 1 problem description,Resolved,IT_Support_C,06/08/2024
+2002,High,Ticket 2 problem description,Open,IT_Support_C,07/04/2024
+2003,Medium,Ticket 3 problem description,Resolved,IT_Support_A,24/08/2024
+2004,Critical,Ticket 4 problem description,Resolved,IT_Support_B,21/06/2024
+2005,High,Ticket 5 problem description,Open,IT_Support_C,08/07/2024
+2006,Medium,Ticket 6 problem description,Resolved,IT_Support_A,04/03/2024
+2007,Medium,Ticket 7 problem description,Resolved,IT_Support_A,11/07/2024
+2008,High,Ticket 8 problem description,Resolved,IT_Support_A,29/06/2024
+2009,High,Ticket 9 problem description,Resolved,IT_Support_A,08/10/2024
+2010,High,Ticket 10 problem description,Resolved,IT_Support_C,23/09/2024
+2011,Low,Ticket 11 problem description,In Progress,IT_Support_C,11/01/2024
+2012,Medium,Ticket 12 problem description,Open,IT_Support_A,22/04/2024
+2013,Medium,Ticket 13 problem description,Resolved,IT_Support_A,19/08/2024
+2014,Low,Ticket 14 problem description,Resolved,IT_Support_A,07/04/2024
+2015,High,Ticket 15 problem description,Resolved,IT_Support_A,20/04/2024
+2016,Low,Ticket 16 problem description,Waiting for User,IT_Support_C,02/09/2024
+2017,Medium,Ticket 17 problem description,Resolved,IT_Support_A,09/03/2024
+2018,High,Ticket 18 problem description,Resolved,IT_Support_A,15/10/2024
+2019,Medium,Ticket 19 problem description,Resolved,IT_Support_A,26/08/2024
+2020,Low,Ticket 20 problem description,Resolved,IT_Support_B,14/08/2024
+2021,Medium,Ticket 21 problem description,In Progress,IT_Support_A,19/07/2024
+2022,Low,Ticket 22 problem description,Resolved,IT_Support_C,13/03/2024
+2023,Medium,Ticket 23 problem description,In Progress,IT_Support_A,22/10/2024
+2024,Low,Ticket 24 problem description,Resolved,IT_Support_C,08/05/2024
+2025,Medium,Ticket 25 problem description,In Progress,IT_Support_B,13/04/2024
+2026,Low,Ticket 26 problem description,Resolved,IT_Support_A,25/01/2024
+2027,Medium,Ticket 27 problem description,Resolved,IT_Support_B,17/10/2024
+2028,High,Ticket 28 problem description,Open,IT_Support_C,16/08/2024
+2029,Critical,Ticket 29 problem description,Waiting for User,IT_Support_C,20/06/2024
+2030,High,Ticket 30 problem description,In Progress,IT_Support_B,11/04/2024
+2031,Critical,Ticket 31 problem description,Resolved,IT_Support_B,12/01/2024
+2032,High,Ticket 32 problem description,Waiting for User,IT_Support_C,10/04/2024
+2033,Medium,Ticket 33 problem description,Resolved,IT_Support_B,17/01/2024
+2034,Medium,Ticket 34 problem description,Waiting for User,IT_Support_A,26/02/2024
+2035,Low,Ticket 35 problem description,Resolved,IT_Support_C,12/01/2024
+2036,Low,Ticket 36 problem description,Open,IT_Support_A,03/08/2024
+2037,Medium,Ticket 37 problem description,In Progress,IT_Support_B,20/09/2024
+2038,Low,Ticket 38 problem description,Open,IT_Support_A,21/03/2024
+2039,Low,Ticket 39 problem description,Resolved,IT_Support_A,16/07/2024
+2040,Medium,Ticket 40 problem description,Resolved,IT_Support_A,25/01/2024
+2041,High,Ticket 41 problem description,In Progress,IT_Support_C,29/03/2024
+2042,High,Ticket 42 problem description,Resolved,IT_Support_A,22/05/2024
+2043,High,Ticket 43 problem description,Waiting for User,IT_Support_A,26/01/2024
+2044,High,Ticket 44 problem description,Open,IT_Support_A,14/10/2024
+2045,High,Ticket 45 problem description,Resolved,IT_Support_B,16/01/2024
+2046,Low,Ticket 46 problem description,Open,IT_Support_C,08/10/2024
+2047,Low,Ticket 47 problem description,Resolved,IT_Support_B,26/03/2024
+2048,Critical,Ticket 48 problem description,Open,IT_Support_B,26/09/2024
+2049,High,Ticket 49 problem description,In Progress,IT_Support_C,26/04/2024
+2050,Critical,Ticket 50 problem description,Resolved,IT_Support_B,16/05/2024
+2051,Medium,Ticket 51 problem description,Resolved,IT_Support_A,24/06/2024
+2052,Medium,Ticket 52 problem description,Waiting for User,IT_Support_A,02/08/2024
+2053,Low,Ticket 53 problem description,Resolved,IT_Support_A,10/08/2024
+2054,Medium,Ticket 54 problem description,Resolved,IT_Support_A,12/04/2024
+2055,Low,Ticket 55 problem description,Resolved,IT_Support_B,14/01/2024
+2056,Low,Ticket 56 problem description,Resolved,IT_Support_C,17/04/2024
+2057,High,Ticket 57 problem description,Resolved,IT_Support_A,07/04/2024
+2058,Low,Ticket 58 problem description,Resolved,IT_Support_B,19/10/2024
+2059,Medium,Ticket 59 problem description,Resolved,IT_Support_B,01/07/2024
+2060,Medium,Ticket 60 problem description,Open,IT_Support_A,08/02/2024
+2061,Medium,Ticket 61 problem description,Resolved,IT_Support_C,04/01/2024
+2062,Low,Ticket 62 problem description,Resolved,IT_Support_B,28/07/2024
+2063,Medium,Ticket 63 problem description,Resolved,IT_Support_A,16/01/2024
+2064,Low,Ticket 64 problem description,Resolved,IT_Support_C,17/04/2024
+2065,Low,Ticket 65 problem description,Resolved,IT_Support_B,14/08/2024
+2066,Medium,Ticket 66 problem description,Open,IT_Support_B,03/02/2024
+2067,Low,Ticket 67 problem description,In Progress,IT_Support_B,25/09/2024
+2068,Medium,Ticket 68 problem description,Resolved,IT_Support_B,30/09/2024
+2069,Medium,Ticket 69 problem description,In Progress,IT_Support_C,08/02/2024
+2070,Medium,Ticket 70 problem description,Open,IT_Support_A,29/01/2024
+2071,High,Ticket 71 problem description,Resolved,IT_Support_A,01/09/2024
+2072,Low,Ticket 72 problem description,Waiting for User,IT_Support_A,03/07/2024
+2073,Medium,Ticket 73 problem description,Waiting for User,IT_Support_C,23/08/2024
+2074,Medium,Ticket 74 problem description,Resolved,IT_Support_A,22/09/2024
+2075,Low,Ticket 75 problem description,Resolved,IT_Support_C,05/03/2024
+2076,High,Ticket 76 problem description,Waiting for User,IT_Support_B,03/01/2024
+2077,Medium,Ticket 77 problem description,Open,IT_Support_C,21/05/2024
+2078,Medium,Ticket 78 problem description,Resolved,IT_Support_C,06/06/2024
+2079,Low,Ticket 79 problem description,In Progress,IT_Support_C,25/05/2024
+2080,Medium,Ticket 80 problem description,In Progress,IT_Support_C,01/06/2024
+2081,Low,Ticket 81 problem description,In Progress,IT_Support_B,11/07/2024
+2082,Low,Ticket 82 problem description,In Progress,IT_Support_B,13/03/2024
+2083,High,Ticket 83 problem description,In Progress,IT_Support_A,19/05/2024
+2084,Critical,Ticket 84 problem description,Resolved,IT_Support_A,01/03/2024
+2085,Medium,Ticket 85 problem description,Resolved,IT_Support_B,16/07/2024
+2086,Medium,Ticket 86 problem description,Open,IT_Support_B,11/01/2024
+2087,High,Ticket 87 problem description,Waiting for User,IT_Support_A,13/08/2024
+2088,Medium,Ticket 88 problem description,Resolved,IT_Support_B,21/02/2024
+2089,Medium,Ticket 89 problem description,Resolved,IT_Support_C,28/02/2024
+2090,Medium,Ticket 90 problem description,Open,IT_Support_B,27/05/2024
+2091,Medium,Ticket 91 problem description,Resolved,IT_Support_C,30/08/2024
+2092,Medium,Ticket 92 problem description,Open,IT_Support_C,16/04/2024
+2093,Medium,Ticket 93 problem description,In Progress,IT_Support_C,05/08/2024
+2094,Medium,Ticket 94 problem description,Open,IT_Support_B,28/08/2024
+2095,High,Ticket 95 problem description,Resolved,IT_Support_C,18/09/2024
+2096,Medium,Ticket 96 problem description,Resolved,IT_Support_C,17/09/2024
+2097,Medium,Ticket 97 problem description,Resolved,IT_Support_C,16/02/2024
+2098,Low,Ticket 98 problem description,Resolved,IT_Support_A,25/06/2024
+2099,Medium,Ticket 99 problem description,Resolved,IT_Support_B,08/04/2024

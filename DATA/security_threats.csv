@@ -1,16 +1,91 @@
-threat_name,severity,detected_on
-Phishing Email Campaign,High,2025-12-01
-Ransomware Attack,Critical,2025-12-02
-Zero-Day Exploit,Critical,2025-12-03
-Insider Data Leak,Medium,2025-12-04
-Data Breach Attempt,High,2025-12-05
-Malware Infection,Critical,2025-12-06
-DDoS Attack,High,2025-12-07
-Phishing Attempt,Medium,2025-12-08
-Ransomware Campaign,Critical,2025-12-09
-Software Vulnerability,High,2025-12-10
-Threat Intelligence Alert,Medium,2025-12-11
-Suspicious Login Activity,High,2025-12-12
-Network Intrusion,High,2025-12-13
-DDoS Risk,Critical,2025-12-14
-Malware Alert,High,2025-12-15
+threat_id,threat_name,severity,detected_on
+1,Phishing Email Campaign,High,2025-12-01
+2,Ransomware Attack,Critical,2025-12-02
+3,Zero-Day Exploit,Critical,2025-12-03
+4,Insider Data Leak,Medium,2025-12-04
+5,Data Breach Attempt,High,2025-12-05
+6,Malware Infection,Critical,2025-12-06
+7,DDoS Attack,High,2025-12-07
+8,Phishing Attempt,Medium,2025-12-08
+9,Ransomware Campaign,Critical,2025-12-09
+10,Software Vulnerability,High,2025-12-10
+11,Threat Intelligence Alert,Medium,2025-12-11
+12,Suspicious Login Activity,High,2025-12-12
+13,Network Intrusion,High,2025-12-13
+14,DDoS Risk,Critical,2025-12-14
+15,Malware Alert,High,2025-12-15
+16,Compromised Credentials,High,2025-12-16
+17,Brute Force Attack,Medium,2025-12-17
+18,Phishing Link Detected,High,2025-12-18
+19,Suspicious File Detected,Medium,2025-12-19
+20,Botnet Activity,Critical,2025-12-20
+21,Unauthorized Access Attempt,High,2025-12-21
+22,Worm Infection,Critical,2025-12-22
+23,Dark Web Mention,Medium,2025-12-23
+24,SQL Injection Attempt,High,2025-12-24
+25,Privilege Escalation Attempt,Critical,2025-12-25
+26,Suspicious Network Traffic,Medium,2025-12-26
+27,Spear Phishing Email,High,2025-12-27
+28,Malicious Script Detected,Medium,2025-12-28
+29,Command and Control Traffic,Critical,2025-12-29
+30,Exploit Kit Detected,High,2025-12-30
+31,Trojan Infection,Medium,2025-12-31
+32,Unusual Outbound Traffic,High,2026-01-01
+33,Ransomware Beaconing,Critical,2026-01-02
+34,Fake Login Page,High,2026-01-03
+35,Backdoor Detected,Critical,2026-01-04
+36,Unauthorized File Access,Medium,2026-01-05
+37,Suspicious USB Device,High,2026-01-06
+38,Phishing SMS Attack,Medium,2026-01-07
+39,Credential Harvesting,Critical,2026-01-08
+40,Man-in-the-Middle Attempt,High,2026-01-09
+41,Brute Force on Email,Medium,2026-01-10
+42,Rootkit Detected,Critical,2026-01-11
+43,Spyware Infection,Medium,2026-01-12
+44,Malicious URL Detected,High,2026-01-13
+45,Unauthorized Database Access,Critical,2026-01-14
+46,Suspicious VPN Login,Medium,2026-01-15
+47,Insider Threat Alert,High,2026-01-16
+48,DDoS Botnet Command,Critical,2026-01-17
+49,Cross-Site Scripting Attack,Medium,2026-01-18
+50,Remote Code Execution Attempt,Critical,2026-01-19
+51,Password Spraying Attack,High,2026-01-20
+52,Suspicious Registry Change,Medium,2026-01-21
+53,Encrypted Traffic Anomaly,High,2026-01-22
+54,Trojan Downloader,Critical,2026-01-23
+55,Unknown Malware Variant,High,2026-01-24
+56,DNS Tunneling Activity,Critical,2026-01-25
+57,Rogue WiFi Network,Medium,2026-01-26
+58,Unapproved Application Installed,High,2026-01-27
+59,Compromised Admin Account,Critical,2026-01-28
+60,Exploit Attempt Blocked,Medium,2026-01-29
+61,Network Reconnaissance,High,2026-01-30
+62,Phishing Website Detected,Critical,2026-01-31
+63,Suspicious PowerShell Script,Medium,2026-02-01
+64,Malicious Email Attachment,High,2026-02-02
+65,Unauthorized Remote Access,Critical,2026-02-03
+66,Suspicious Process Started,Medium,2026-02-04
+67,Zero-Day Malware,Critical,2026-02-05
+68,Exposed Sensitive Data,High,2026-02-06
+69,Cloud Account Breach,Medium,2026-02-07
+70,DDoS Amplification Attack,Critical,2026-02-08
+71,Fake Antivirus Alert,Medium,2026-02-09
+72,Session Hijacking Attempt,High,2026-02-10
+73,Compromised IoT Device,Critical,2026-02-11
+74,Brute Force on SSH,High,2026-02-12
+75,Unauthorized Software Execution,Medium,2026-02-13
+76,Phishing via Social Media,High,2026-02-14
+77,Ransomware Payload Detected,Critical,2026-02-15
+78,DNS Spoofing Attempt,High,2026-02-16
+79,Malware Callback Alert,Critical,2026-02-17
+80,Fileless Malware Detected,High,2026-02-18
+81,Keylogger Activity,Medium,2026-02-19
+82,Suspicious Encryption Activity,High,2026-02-20
+83,Unauthorized Access to Logs,Critical,2026-02-21
+84,Weak Password Detected,Medium,2026-02-22
+85,Phishing via QR Code,High,2026-02-23
+86,Compromised API Key,Critical,2026-02-24
+87,Suspicious Admin Activity,High,2026-02-25
+88,Credential Phishing Attempt,Medium,2026-02-26
+89,Unauthorized Cloud Login,High,2026-02-27
+90,Brute Force on Web Portal,Medium,2026-02-28

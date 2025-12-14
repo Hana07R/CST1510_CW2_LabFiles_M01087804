@@ -1,0 +1,101 @@
+ticket_id,title,status,priority,assigned_to,created_on
+1,Email server down,Open,High,Alice,2025-12-01
+2,Printer not working,Resolved,Medium,Bob,2025-12-02
+3,Network outage,Open,Critical,Charlie,2025-12-03
+4,VPN not connecting,Open,High,Alice,2025-12-04
+5,Software update failed,Resolved,Medium,Bob,2025-12-05
+6,Laptop slow,Open,Low,Charlie,2025-12-06
+7,Access denied to shared folder,Resolved,High,Alice,2025-12-07
+8,Server backup failed,Open,Critical,Bob,2025-12-08
+9,Email spam issues,Open,Medium,Charlie,2025-12-09
+10,Printer jammed,Resolved,Low,Alice,2025-12-10
+11,WiFi intermittent,Open,High,Bob,2025-12-11
+12,Database connection error,Open,Critical,Charlie,2025-12-12
+13,Email attachment blocked,Resolved,Medium,Alice,2025-12-13
+14,VPN timeout,Open,High,Bob,2025-12-14
+15,Software crash,Open,Medium,Charlie,2025-12-15
+16,Password reset needed,Resolved,Low,Alice,2025-12-16
+17,Computer not booting,Open,Critical,Bob,2025-12-17
+18,Network slow,Open,High,Charlie,2025-12-18
+19,Account locked out,Resolved,Medium,Alice,2025-12-19
+20,Unable to print,Open,Low,Bob,2025-12-20
+21,Meeting app not working,Open,Medium,Charlie,2025-12-21
+22,Server overheating,Open,Critical,Alice,2025-12-22
+23,Email sync issues,Resolved,Medium,Bob,2025-12-23
+24,Keyboard not responding,Open,Low,Charlie,2025-12-24
+25,File corruption detected,Open,High,Alice,2025-12-25
+26,WiFi authentication failed,Resolved,Medium,Bob,2025-12-26
+27,System freezing randomly,Open,High,Charlie,2025-12-27
+28,Security software alert,Open,Critical,Alice,2025-12-28
+29,Application not opening,Resolved,Low,Bob,2025-12-29
+30,Mouse not working,Open,Low,Charlie,2025-12-30
+31,Access request pending,Open,Medium,Alice,2025-12-31
+32,Projector not working,Resolved,Low,Bob,2026-01-01
+33,VoIP call issues,Open,Medium,Charlie,2026-01-02
+34,Hard drive failure,Open,Critical,Alice,2026-01-03
+35,Server memory full,Open,High,Bob,2026-01-04
+36,USB port not working,Resolved,Low,Charlie,2026-01-05
+37,Antivirus out of date,Open,Medium,Alice,2026-01-06
+38,Firewall blocked application,Open,High,Bob,2026-01-07
+39,Screen flickering,Resolved,Medium,Charlie,2026-01-08
+40,Email delivery delay,Open,Low,Alice,2026-01-09
+41,Mobile device not syncing,Open,Medium,Bob,2026-01-10
+42,Software license expired,Open,High,Charlie,2026-01-11
+43,Blue screen error,Open,Critical,Alice,2026-01-12
+44,Unable to connect to server,Resolved,High,Bob,2026-01-13
+45,Audio not working,Open,Low,Charlie,2026-01-14
+46,Camera not detected,Open,Medium,Alice,2026-01-15
+47,Shared drive missing,Resolved,High,Bob,2026-01-16
+48,RAM usage too high,Open,Medium,Charlie,2026-01-17
+49,PC overheating,Open,High,Alice,2026-01-18
+50,Password policy error,Resolved,Low,Bob,2026-01-19
+51,Cannot access VPN,Open,High,Charlie,2026-01-20
+52,Unresponsive application,Open,Medium,Alice,2026-01-21
+53,Power outage in server room,Resolved,Critical,Bob,2026-01-22
+54,System update pending,Open,Low,Charlie,2026-01-23
+55,Cloud storage full,Open,High,Alice,2026-01-24
+56,Video conferencing lag,Resolved,Medium,Bob,2026-01-25
+57,Disk read error,Open,Critical,Charlie,2026-01-26
+58,Corrupted user profile,Open,High,Alice,2026-01-27
+59,App installation blocked,Resolved,Medium,Bob,2026-01-28
+60,Monitor not turning on,Open,Low,Charlie,2026-01-29
+61,Authentication server down,Open,Critical,Alice,2026-01-30
+62,Desktop icons missing,Resolved,Low,Bob,2026-01-31
+63,Slow domain login,Open,Medium,Charlie,2026-02-01
+64,Router malfunction,Open,High,Alice,2026-02-02
+65,Corrupted OS files,Open,Critical,Bob,2026-02-03
+66,Email rule misconfigured,Resolved,Low,Charlie,2026-02-04
+67,Cannot access database,Open,Critical,Alice,2026-02-05
+68,Print job stuck in queue,Open,Medium,Bob,2026-02-06
+69,Frequent disconnections,Open,High,Charlie,2026-02-07
+70,Unauthorized software detected,Resolved,Medium,Alice,2026-02-08
+71,VoIP phone offline,Open,High,Bob,2026-02-09
+72,Tablet not charging,Open,Low,Charlie,2026-02-10
+73,Corrupted spreadsheet,Resolved,Medium,Alice,2026-02-11
+74,Power supply failure,Open,Critical,Bob,2026-02-12
+75,Remote access issues,Open,High,Charlie,2026-02-13
+76,User profile loading slowly,Open,Medium,Alice,2026-02-14
+77,Dashboard not loading,Resolved,High,Bob,2026-02-15
+78,Mouse cursor lagging,Open,Low,Charlie,2026-02-16
+79,Software key invalid,Open,Medium,Alice,2026-02-17
+80,Server reboot required,Open,High,Bob,2026-02-18
+81,Unauthorized login attempt,Resolved,Critical,Charlie,2026-02-19
+82,Incorrect time sync,Open,Low,Alice,2026-02-20
+83,VPN certificate expired,Open,High,Bob,2026-02-21
+84,Unable to upload files,Open,Medium,Charlie,2026-02-22
+85,Device driver crash,Resolved,High,Alice,2026-02-23
+86,Network cable unplugged,Open,Low,Bob,2026-02-24
+87,Multiple system errors,Open,Critical,Charlie,2026-02-25
+88,Local admin rights missing,Resolved,Medium,Alice,2026-02-26
+89,Server RAID failure,Open,Critical,Bob,2026-02-27
+90,Web browser freezing,Open,High,Charlie,2026-02-28
+91,Spreadsheet formulas broken,Resolved,Low,Alice,2026-03-01
+92,Remote desktop not connecting,Open,Medium,Bob,2026-03-02
+93,Antivirus blocking safe app,Open,Low,Charlie,2026-03-03
+94,Hard disk slow response,Open,High,Alice,2026-03-04
+95,Cloud sync failure,Resolved,Medium,Bob,2026-03-05
+96,Audio device missing,Open,Low,Charlie,2026-03-06
+97,Process stuck at startup,Open,High,Alice,2026-03-07
+98,Server CPU overload,Open,Critical,Bob,2026-03-08
+99,Email rules duplicated,Resolved,Low,Charlie,2026-03-09
+100,App crashing after update,Open,High,Alice,2026-03-10
